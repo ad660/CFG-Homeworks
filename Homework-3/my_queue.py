@@ -57,7 +57,7 @@ def createQueue(people):
 
 print(createQueue(people))
 
-"""QUESTIO B: What is the time and space complexity of your solution? if you are making any assumptions list them"""
+"""QUESTION B: What is the time and space complexity of your solution? if you are making any assumptions list them"""
 
 """The time complexity of this solution is O(n) as it has a loop. I at first was thinking it was O(n2) because of 
 the nested loop but as the nested loop is only performing on each 'person' in the list of people, therefore it should 
